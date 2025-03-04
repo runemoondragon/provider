@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Bitcoin atom icon with cyan/blue gradient -->
+  <circle cx="100" cy="100" r="50" fill="none" stroke="url(#grad)" stroke-width="2"/>
+  <circle cx="100" cy="100" r="30" fill="url(#grad)"/>
+  <!-- Add orbital paths and nodes here -->
+</svg> 

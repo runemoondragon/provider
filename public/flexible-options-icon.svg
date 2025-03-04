@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Document stack icon with cyan/blue gradient -->
+  <path d="M40 40h120v140H40z" fill="none" stroke="url(#grad)" stroke-width="2"/>
+  <!-- Add document elements and Bitcoin symbols here -->
+</svg> 

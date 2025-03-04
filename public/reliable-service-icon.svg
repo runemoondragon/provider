@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Connected devices icon with cyan/blue gradient -->
+  <rect x="60" y="60" width="80" height="60" rx="4" fill="url(#grad)"/>
+  <!-- Add connected device elements here -->
+</svg> 
